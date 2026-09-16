@@ -1,13 +1,12 @@
 # Thu Uyen
 
 # job experiences
-- CIA
-- FBI
-- MI6
+- 2022 - 2024: Marketing Executive - Palm Forest (Mialala)
+- 2021 - 2022: PR Executive - AZ Vietnam
 
 # Educations
 - Tunghai University
-- Tunghai Highschool
-- Tunghai Junior school
+- Academy of Journalism and Communication
+- Tay Ho High school
 
-# Computer skills
+# Marketing skills
