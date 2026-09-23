@@ -10,3 +10,10 @@
 - Tay Ho High school
 
 # Marketing skills
+- Google Antigravity
+- Githhub
+- Git
+- Python
+
+# Honors
+- Taiwan Scholarship
